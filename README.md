@@ -10,8 +10,8 @@
   
 ### 🌱 Currently Learning
 
--- Committed to continuous learning and growth.
--- Actively expanding knowledge in the dynamic field of data analytics.
+- Committed to continuous learning and growth.
+- Actively expanding knowledge in the dynamic field of data analytics.
 
 ### 📫 Get in Touch
 
